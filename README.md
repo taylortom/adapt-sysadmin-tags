@@ -6,5 +6,9 @@ Note that this is a child plugin of the [adapt-sysadmin](https://github.com/tayl
 
 ## Installation
 
-1. Copy the contents of `src` `/frontend/src/plugins/sysadmin-tags` in your authoring tool folder.
+1. Copy `sysadmin-tags` to `/frontend/src/plugins/` in your authoring tool folder.
 2. That’s it!
+
+## Dependencies
+
+- [adapt-sysadmin](https://github.com/taylortom/adapt-sysadmin)
